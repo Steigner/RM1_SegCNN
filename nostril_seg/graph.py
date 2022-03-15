@@ -9,8 +9,8 @@ print("[INFO] Supervisor: Ing. Roman Parak")
 print("[INFO] IACS FME BUT @2022")
 print("---------------------------------------")
 
-# paths = ['Unet-Resnet', 'Unet-Mobilenet', 'Unet-Seresnet']
-paths = ["ASPOCRNET-Resnet", "ASPOCRNET-Mobilenet", "ASPOCRNET-Xception"]
+paths = ['Unet-Resnet', 'Unet-Mobilenet', 'Unet-Seresnet']
+# paths = ["ASPOCRNET-Resnet", "ASPOCRNET-Mobilenet", "ASPOCRNET-Xception"]
 
 for path in paths:
 
