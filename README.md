@@ -19,3 +19,20 @@ RM1 is an experimental robotic platform created to automate antigen testing. Thi
 + [<=](https://github.com/Steigner/RM1_ROS) RM1 - ROS         
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
+
+
+## Screenshots and videos
+
+<p align="center"> <b>Click to full resolution</b> </p>
+
+![plot](Unet.png)
+![plot](ASPOCRNet.png)
+
+## Authors
+
+* Author: Martin Juricek
+* Supervisor: Roman Parak
+
+## References
+
+[Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
