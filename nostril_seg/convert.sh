@@ -1,0 +1,1 @@
+poetry run python -m tf2onnx.convert --saved-model ./models/Unet-SERESNET --output ./Unet-SERESNET.onnx

@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "nostril_seg"
+version = "0.1.0"
+description = ""
+authors = ["Steigner"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tensorflow-gpu = "^2.5"
+Pillow = "^9.0.1"
+albumentations = "^1.1.0"
+matplotlib = "^3.5.1"
+onnx = "^1.10.2"
+tf2onnx = "^1.9.3"
+segmentation-models = "^1.0.1"
+SciencePlots = "^1.0.9"
+tensorflow-advanced-segmentation-models = {git = "https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models.git"}
+optuna = "^2.10.0"
+wandb = "^0.12.11"
+imgaug = "^0.4.0"
+ipython = "^8.1.1"
+nbformat = "^5.2.0"
+black = "^22.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
