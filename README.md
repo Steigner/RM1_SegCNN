@@ -21,7 +21,7 @@ RM1 is an experimental robotic platform created to automate antigen testing. Thi
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
 
-Scripts used to train convolutional neural networks to segment images for nostril detection are integrated in this repository. The Make-Sense tool was used for the labeling process. Then a custom script was implemented for subsequent masking. Subsequently, the actual augmentation and training process is stored in the ipynb notebook. For interest, a script was also added to demonstrate the minimum search using the Adagrad algorithm. The trained models are also included in onnx format. However, the dataset was not included due to GDPR.
+Scripts used to train convolutional neural networks to segment images for nostril detection are integrated in this repository. The Make-Sense tool was used for the labeling process. Then a custom script was implemented for subsequent masking. Subsequently, the actual augmentation and training process is stored in the .ipynb notebook. For interest, a script was also added to demonstrate the minimum search using the Adagrad algorithm. The trained models are also included in .onnx format. However, the dataset was not included due to GDPR.
 
 ## Screenshots and videos
 
